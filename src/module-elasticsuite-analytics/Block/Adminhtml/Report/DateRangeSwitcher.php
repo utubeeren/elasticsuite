@@ -13,6 +13,7 @@
  */
 namespace Smile\ElasticsuiteAnalytics\Block\Adminhtml\Report;
 
+
 /**
  * Block used to display date range switcher in reports.
  *
